@@ -32,6 +32,6 @@ During the process, we prepared an:
 
 All the files are available in the attached link to Google Sheets:
 
-[*Open The Reformat Project*]([https://docs.google.com/spreadsheets/d/170xoKUgA-jTZUci81NAIhfpLFhAQITmewX5ow7Kg_-8/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1Ffr3TYiaJoxSb6JASsDbrnLD_Jx3kTIux9E0EU8GRBU/edit?usp=sharing))  
+[*Open The Reformat Project*](https://docs.google.com/spreadsheets/d/1Ffr3TYiaJoxSb6JASsDbrnLD_Jx3kTIux9E0EU8GRBU/edit?usp=sharing)  
 
 The requirement, specification, and design documents were not uploaded here because they belong to John Bryce's college.
