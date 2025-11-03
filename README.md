@@ -1,3 +1,26 @@
+### Test Project - JPetStore
+A testing project carried out by my teammates and me (thanks to Maya and Sapir) during our software testing course.
+
+We applied various testing techniques, executed test cases on the software we received, documented the results, and reported defects.
+
+During the process, we prepared an:
+
+-	*STP* (Software Test Plan).
+
+-	*STD* (Software Test Design).
+
+-	*STR* (Test Summary Report).
+
+-	*Bug Report*.
+
+All the files are available in the attached link to Google Sheets:
+
+[*Open The JPetStore Project*](https://docs.google.com/document/d/1cpY8CkgGSGojPV6B-A35K-Db7pHIw9XHVVStIWkb8BY/edit?usp=sharing)  
+
+The requirement, specification, and design documents, as well as the two software versions we tested, were not uploaded to here because they belong to 'John Bryce' college.
+
+</br></br>
+
 ### Test Project - RDC
 A testing project carried out by my teammates and me (thanks to Fredi and David) during our software testing course.
 
